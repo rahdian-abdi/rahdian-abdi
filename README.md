@@ -1,6 +1,6 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Rahdian Abdi</h1>
-<h3 align="center">A passionate person about Software Developer Engineer in Test that always moved by Space, Technology, Science, History, and Geopolitics</h3>
+<h3 align="center">A passionate person about Software Developer Engineer in Test and MERN TEchnology. Always moved by Space, Technology, Science, History, and Geopolitics</h3>
 <img align="right" alt="Coding" width="400" src="https://assets.website-files.com/6004fa811a07c5ae5a5d58e9/60560193650af1776fac6854_programming-lang.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahdian-abdi&label=Profile%20views&color=0e75b6&style=flat" alt="rahdian-abdi" /> </p>
