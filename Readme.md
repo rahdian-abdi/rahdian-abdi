@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rahdian.abdi@yahoo.com**
 
-- ⚡ Fun fact **Musical, a no for Instagram**
+- ⚡ Fun fact **Musical, a no for Social Media**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
