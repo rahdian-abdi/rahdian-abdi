@@ -7,19 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Quality Assurance Engineer, MERN**
-
-- 💬 Ask me about **JavaScript, Node.js, Java, SerenityBDD-Selenium, SerenityBDD-RestAssured, Cucumber, PostmanAPI**
-
-- 📫 How to reach me **rahdian.abdi@yahoo.com**
-
-- ⚡ Fun fact **Musical, a no for Social Media**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rahdianabdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahdianabdi" height="30" width="40" /></a>
-</p>
-
 ## 🔨Tools
 ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
 ![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
@@ -45,3 +32,8 @@
 </a>
 </p>
 
+## 🔗Reach me!
+<p>
+    <a href="https://www.linkedin.com/in/rahdianabdi/" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
+    <a href="mailto: rahdian.abdi@yahoo.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+   
