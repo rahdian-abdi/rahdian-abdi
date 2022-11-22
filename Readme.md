@@ -35,5 +35,5 @@
 ## 🔗Reach me!
 <p>
     <a href="https://www.linkedin.com/in/rahdianabdi/" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
-    <a href="mailto: rahdian.abdi@yahoo.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+    <a href="mailto: rahdian.abdi@yahoo.com" target="blank"><img src="https://img.shields.io/badge/-yahoo-181717?style=for-the-badge&logo=yahoo" /></a>
    
