@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## 🔨Tools
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-java-18171?style=for-the-badge&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
 ![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
