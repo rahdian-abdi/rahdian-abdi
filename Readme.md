@@ -13,7 +13,7 @@
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
 ![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
 ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-20B2AA?style=for-the-badge)
-![Playwright](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
+![Playwright](https://img.shields.io/badge/Playwright-181717?style=for-the-badge&logo=appium)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
