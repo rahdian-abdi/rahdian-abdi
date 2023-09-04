@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 <h1 align="center">Hi 👋, I'm Rahdian Abdi</h1>
-<h3 align="center">A passionate person about Software Developer Engineer in Test and MERN Technology. Always moved by Space, Technology, Science, History, and Geopolitics</h3>
+<h3 align="center">A passionate person about Software Developer Engineer in Test and Cyber Security. Always moved by Space, Technology, Science, History, and Geopolitics</h3>
 <img align="right" alt="Coding" width="400" src="https://assets.website-files.com/6004fa811a07c5ae5a5d58e9/60560193650af1776fac6854_programming-lang.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahdian-abdi&label=Profile%20views&color=0e75b6&style=flat" alt="rahdian-abdi" /> </p>
@@ -12,17 +12,16 @@
 ![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
 ![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
 ![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.Js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ## 📈Stats
 <p align="left">
