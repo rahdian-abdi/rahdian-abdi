@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*cDs1lIHva7j7kwsnmROc0w.png)
+![MasterHead](https://tryhackme-badges.s3.amazonaws.com/0xpr0metheus.png)
 <h1 align="center">Hi 👋, I'm Rahdian Abdi</h1>
 <h3 align="center">A passionate person about Software Engineer in Test and Cyber Security. Always moved by Space, Technology, Science, History, and Geopolitics</h3>
 
