@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/0xpr0metheus.png" alt="TryHackMe">
 </div>
 <h1 align="center">Hi 👋, I'm Rahdian Abdi</h1>
