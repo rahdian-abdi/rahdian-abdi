@@ -1,4 +1,4 @@
-![MasterHead](<script src="https://tryhackme.com/badge/2173443"></script)
+![MasterHead](<script src="https://tryhackme.com/badge/2173443"></script>)
 <h1 align="center">Hi 👋, I'm Rahdian Abdi</h1>
 <h3 align="center">A passionate person about Software Engineer in Test and Cyber Security. Always moved by Space, Technology, Science, History, and Geopolitics</h3>
 
