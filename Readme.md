@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/0xpr0metheus.png" alt="TryHackMe">
+ <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2173443" style='border:none;'></iframe>
 </div>
 <h1 align="center">Hi 👋, I'm Rahdian Abdi</h1>
-<h3 align="center">A passionate person about Software Engineer in Test and Cyber Security. Always moved by Space, Technology, Science, History, and Geopolitics</h3>
+<h3 align="center">A passionate person about Cyber Security especially Offensive Security. Always moved by Space, Technology, Science, History, and Geopolitics</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rahdian-abdi&label=Profile%20views&color=0e75b6&style=flat" alt="rahdian-abdi" /> 
