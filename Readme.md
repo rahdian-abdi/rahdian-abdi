@@ -11,20 +11,46 @@
 
 ## 🔨 Tools
 
+<!-- Languages -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-DD7B00?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<!-- Pentesting & Recon Tools -->
+![Nmap](https://img.shields.io/badge/Nmap-9C2ED4?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-006B8F?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/BurpSuite-F05E23?style=for-the-badge&logo=portswigger&logoColor=white)
+![Evilginx2](https://img.shields.io/badge/Evilginx2-000000?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-6D071A?style=for-the-badge&logo=metasploit&logoColor=white)
+![Impacket](https://img.shields.io/badge/Impacket-FF0000?style=for-the-badge)
+![John The Ripper](https://img.shields.io/badge/John%20The%20Ripper-000000?style=for-the-badge)
+![Jadx](https://img.shields.io/badge/Jadx-00FF00?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-3581B8?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-DA251D?style=for-the-badge)
+![GoBuster](https://img.shields.io/badge/GoBuster-00ADD8?style=for-the-badge)
+![Netexec](https://img.shields.io/badge/Netexec-007ACC?style=for-the-badge)
+![BloodHound](https://img.shields.io/badge/BloodHound-912F40?style=for-the-badge&logo=bloodhound&logoColor=white)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-5C2D91?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Nessus-F16824?style=for-the-badge)
+![Ligolo-ng](https://img.shields.io/badge/Ligolo--Ng-1F2022?style=for-the-badge)
+
+<!-- Testing Frameworks -->
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
+![Playwright](https://img.shields.io/badge/Playwright-43853D?style=for-the-badge&logo=playwright)
+![REST-Assured](https://img.shields.io/badge/Rest%20Assured-20B2AA?style=for-the-badge&logo=rest-assured)
 ![Appium](https://img.shields.io/badge/-appium-662d91?style=for-the-badge&logo=appium)
-![Rest Assured](https://img.shields.io/badge/Rest%20Assured-20B2AA?style=for-the-badge)
-![Playwright](https://img.shields.io/badge/Playwright-43853D?style=for-the-badge&logo=appium)
+![TestNG](https://img.shields.io/badge/TestNG-5C2D91?style=for-the-badge&logo=testng&logoColor=white)
+
+<!-- Version Control -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+<!-- Operating Systems -->
+![BlackArch Linux](https://img.shields.io/badge/BlackArch-050505?style=for-the-badge&logo=blackarch-linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
-![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
-![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
-![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ## 📈 Stats
 
