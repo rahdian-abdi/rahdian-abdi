@@ -34,12 +34,6 @@
 <!-- Testing Frameworks -->
 ![Playwright](https://img.shields.io/badge/Playwright-43853D?style=for-the-badge&logo=playwright)
 
-## 📈 Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahdian-abdi&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>
-</p>
-
 ## 🔗 Reach me!
 
 <p>
