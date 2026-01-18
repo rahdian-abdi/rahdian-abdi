@@ -13,7 +13,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 <!-- Pentesting & Recon Tools -->
-![Cobalt Strike](https://img.shields.io/badge/Cobalt--Strike-000000?style=for-the-badg)
+![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-000000?style=for-the-badge)
 ![Rubeus](https://img.shields.io/badge/Rubeus-8B0000?style=for-the-badge&logo=rubeus&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-9C2ED4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/BurpSuite-F05E23?style=for-the-badge&logo=portswigger&logoColor=white)
